@@ -1,6 +1,7 @@
 body{
     margin: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: 'orbitron', sans-serif;
     font-size: 10px;
     font-style: oblique;
     font-weight: 20px;
@@ -12,6 +13,9 @@ body{
 }
 
 .theater{
+    /* فونت از گوگل اجرا نشد
+     */
+    font-family: 'orbitron', sans-serif;
     border: 10px solid rgb(173, 49, 49);
     box-shadow: 0 0 50px rgb(119, 75, 75);
     border-radius: 15px;
